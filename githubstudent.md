@@ -2,4 +2,4 @@
 
 * Name: Joshua Wehner
 * Username: @githubstudent
-* Location: Minneapolis, MN
+* Location: 123 Fake Street, Minneapolis, MN
