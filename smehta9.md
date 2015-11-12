@@ -1,5 +1,5 @@
 # GitHub smehta
 
-* Name: Sumeet
+* Name: Github
 * Username: @smehta9
-* Location: Reston, VA
+* Location: 123 VA
