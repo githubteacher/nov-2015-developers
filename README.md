@@ -7,3 +7,4 @@ This readme file describes the standards and procedures for using this repositor
 * https://guides.github.com/introduction/flow/
 * https://help.github.com/articles/closing-issues-via-commit-messages/
 * https://help.github.com/articles/caching-your-github-password-in-git/
+* https://github.com/github/gitpad
