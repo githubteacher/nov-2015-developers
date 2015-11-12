@@ -2,4 +2,4 @@
 
 * Name : John Doe
 * Username : @varvrfam
-* Location : Reston pkway, Reston, VA
+* **Location : ** Reston pkway, Reston, VA
