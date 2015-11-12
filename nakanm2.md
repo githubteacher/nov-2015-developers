@@ -2,4 +2,5 @@
 
 * Name: Miho
 * Username: @nakanm2
-* Location: Scituate, MA
+* Location: MA, USA
+* Additional line: Additional :)
