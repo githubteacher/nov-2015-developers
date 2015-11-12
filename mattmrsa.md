@@ -2,4 +2,4 @@
 
 * Name: Matt M
 * Username: @mattmrsa
-* Location: outer space
+* Location: outer space (orbiting satellite--planet classified)
