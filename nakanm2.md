@@ -4,3 +4,4 @@
 * Username: @nakanm2
 * Location: MA, USA
 * Additional line: Additional :)
+* Pets: Cats, fish
