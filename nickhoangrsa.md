@@ -2,4 +2,4 @@
 
 * Name: Thor Odinson
 * Username: @nickhoangrsa
-* Location: Asgard
+* Location: Asgard, go across the Einstein-Rosen Bridge and take a left.
