@@ -1,5 +1,6 @@
-# mattmrsa 
+# mattmrsa
 
-* Name: Matt M
-* Username: @mattmrsa
-* Location: outer space (orbiting satellite--planet classified)
+* **Name:** Matt M
+* **Username:** @mattmrsa
+* **Location:** outer space *(orbiting satellite--__planet classified__)*
+* **Favorite Band:** Primus
