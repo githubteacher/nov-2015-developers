@@ -1,4 +1,4 @@
-# Scott
+# Hellow my name is Scott
 
 * Name: Scott
 * Username: typicalaimster
