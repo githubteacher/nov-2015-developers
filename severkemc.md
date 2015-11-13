@@ -1,4 +1,4 @@
-* Name: Kurt Severance
+* Name: BAR
 * User: @severkemc
 * Location: Bedford, MA
 * Room: Purple
