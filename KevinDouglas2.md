@@ -19,3 +19,6 @@
 * Animal: cat
 * Animal: dog
 * Animal: bird
+
+* Cars
+* Car: Volvo
