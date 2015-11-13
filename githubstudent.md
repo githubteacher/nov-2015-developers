@@ -1,4 +1,4 @@
-# GitHub Student 12345
+# GitHub Student 123456789
 
 * Name: Joshua Wehner
 * Username: @githubstudent
