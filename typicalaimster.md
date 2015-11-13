@@ -1,4 +1,4 @@
-# GitHub Student
+# Scott
 
 * Name: Scott
 * Username: typicalaimster
