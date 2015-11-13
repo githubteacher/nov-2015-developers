@@ -1,4 +1,4 @@
-# GitHub Student
+# Joshua Wehner
 
 * Name: Joshua Wehner
 * Username: @githubstudent
