@@ -1,4 +1,4 @@
-# GitHub Student
+# Netra Patankar
 
 * *Name:* Netra Patankar
 * **Username:** patann1
