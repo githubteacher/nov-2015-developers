@@ -1,4 +1,4 @@
-#KPINEIRO
+#Ken Pineiro
 
 * Name: Ken Pineiro
 * Username: kpineiro
