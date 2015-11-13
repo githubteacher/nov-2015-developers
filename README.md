@@ -5,6 +5,7 @@ This readme file describes the standards and procedures for using this repositor
 ### Links
 
 * http://www.surveygizmo.com/s3/2443418/GitHub-for-Developers-RSA-11-12-2015
+* [branching visualization](http://pcottle.github.io/learnGitBranching/)
 * https://guides.github.com/introduction/flow/
 * https://help.github.com/articles/closing-issues-via-commit-messages/
 * https://help.github.com/articles/caching-your-github-password-in-git/
