@@ -1,4 +1,4 @@
-# Leroy
+# Le Roi
 
 * Breed: Golden Retriever
 * Good Dog/Bad Dog: Good (mostly)
