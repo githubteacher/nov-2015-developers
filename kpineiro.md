@@ -1,4 +1,4 @@
-#Ken Pineiro
+#Hello, my name is Ken Pineiro
 
 * Name: Ken Pineiro
 * Username: kpineiro
