@@ -14,3 +14,8 @@
 * Color: Black
 * Color: Clear
 * Color: Plaid
+
+* Animals:
+* Animal: cat
+* Animal: dog
+* Animal: bird
