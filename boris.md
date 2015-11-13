@@ -1,3 +1,3 @@
-# Boris
+# Git User
 
-* Name: boris
+* Name: Boris
