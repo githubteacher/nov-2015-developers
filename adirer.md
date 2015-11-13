@@ -1,3 +1,5 @@
 #Github Student
 
-Ravi Adiredi, Reston, VA
+**Ravi Adiredi**
+**Reston, VA**
+**Shell Mode**
