@@ -1,4 +1,4 @@
-# Leroy Jenkins
+# Leroy Jenkins, Le Roi
 
 * Breed: Golden Retriever
 * Good Dog/Bad Dog: Good (mostly)
