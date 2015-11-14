@@ -1,0 +1,199 @@
+welcome "Joshua Wehner (@jaw6)"
+git --version
+git config --list
+git config user.name
+git config --global user.name "GitHub Student"
+git config user.name
+git config user.email
+git config core.editor
+vi
+git config push.default
+git clone https://github.com/githubteacher/nov-2015-developers.git
+ls 
+pwd
+cd nov-2015-developers/
+git status
+ls
+open .
+atom .
+git branch
+git branch -a
+git branch githubstudent-edits
+git branch
+git checkout githubstudent-edits
+git status
+git add githubstudent.md
+git commit
+git push
+git push -u origin githubstudent-edits
+git status
+git checkout master
+git status
+git pull
+git status
+git pull
+git checkout githubstudent-edits
+git status
+git merge master
+git status
+git push
+ls
+git status
+git log
+git log --oneline
+git log --oneline --decorate
+git log --oneline --decorate --graph
+git checkout master
+git log --oneline --decorate --graph
+git log --oneline --decorate --graph --all
+git config --global alias.lol "log --oneline --decorate --graph"
+git config alias.lol
+git lol
+git lol --all
+git lol --all -7
+git status
+git config --global alias.s "status -s"
+git s
+git status
+git diff
+git diff --color-words
+git add githubstudent.md
+git diff
+git status
+git diff --staged
+git status
+git diff
+git diff HEAD
+git diff --staged
+git diff --staged --color-words
+git status
+git reset HEAD githubstudent.md
+git status
+git diff
+git checkout -- githubstudent.md
+git status
+git checkout -b githubstudent-more
+git status
+git add .
+git commit -m "Use my real name"
+git lol
+git checkout master
+git checkout -b githubstudent-conflict
+git diff
+git add .
+git commit -m "Hello my name is"
+git checkout githubstudent-more
+git lol --all
+git merge githubstudent-conflict
+git status
+git commit
+git mergetool
+git status
+git diff --staged
+git diff --staged --color-words
+git status
+git diff
+git diff --staged
+git commit
+git lol --all
+git push -u origin githubstudent-more
+git status
+cat githubstudent.md.orig
+git clean 
+git clean -f
+touch githubstudent.md.orig
+touch application.log
+mkdir tmp
+touch tmp/system.tmp
+git status
+touch .gitignore
+git status
+ls
+git status
+git s
+git branch
+git checkout master
+git s
+git stash
+git diff
+git log
+git stash list
+git stash list --patch
+git stash list
+git stash pop
+git stash list
+git status
+git add .gitignore
+git commit -m "Add gitignore"
+git push
+git fetch
+git lol --all
+git rebase origin/master
+git lol --all
+git push
+git status
+ls
+touch important.orig
+ls
+git status
+git add important.orig 
+git add -f important.orig
+git status
+git commit -m "Add important.orig"
+git status
+git add .
+git commit -m "Add 123"
+git status
+git push
+git fetch
+git rebase origin/master
+git push
+git status
+git add .
+git commit -m "Go to 45"
+git push
+ls
+git rm --cached important.orig
+git status
+ls
+git commit -m "Remove important.orig"
+git push
+echo "this is my password" > password.txt
+git add .
+git commit -m "Go all the way to 9"
+git push
+git rm password.txt 
+git commit -m "Remove password"
+git push
+git lol
+git revert HEAD~
+git push
+git checkout -b githubstudent-undoable
+echo "A" > A; git add A; git commit -m "A"
+echo "B" > B; git add B; git commit -m "B"
+echo "C" > C; git add C; git commit -m "C"
+echo "D" > D; git add D; git commit -m "D"
+echo "E" > E; git add E; git commit -m "E"
+git lol
+git status
+git add E
+git commit --amend
+git lol
+git commmit --amend
+git commit --amend
+git lol
+git reset HEAD~
+git status
+ls
+git clean -f
+git lol
+git reset --hard fe241a5
+git lol -8
+ls
+git reflog
+git reset --hard 005475e
+git lol -7
+git rebase -i master
+git lol -7
+git log --patch -2
+historytailbash 1 5
